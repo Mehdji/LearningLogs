@@ -146,9 +146,9 @@ This project is part of a Django learning exercise. Feel free to use it for educ
 
 ## 📞 Contact
 
-Your Name - [NAOUI Mehdi](mailto:naouimehdi@hotmail.fr)
+ [NAOUI Mehdi](mailto:naouimehdi@hotmail.fr)
 
-Project Link: [https://github.com/yourusername/learning-log](https://github.com/yourusername/learning-log)
+ [https://github.com/yourusername/learning-log](https://github.com/yourusername/learning-log)
 
 ## 🙏 Acknowledgments
 
