@@ -11,4 +11,8 @@ app_name = 'learning_logs'
 urlpatterns = [
     #home page
     path('', views.index, name='index'),
+    #Path that shows all topics.
+    path('topics/', views.topics, name="topics"),
+    path('topics/<int:topic_id>/', views.topic, name="topic"),
+
 ]
